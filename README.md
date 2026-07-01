@@ -1,4 +1,4 @@
-# Phase 1 ï¿½ Test Analysis & Design
+# Phase 1 – Test Analysis & Design
 
 This folder contains the Bidirectional Matrix for the Demo PrestaShop Functional & UX Testing project.
 
